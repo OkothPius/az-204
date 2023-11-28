@@ -1,0 +1,14 @@
+C:\Users\pogutu\Desktop\az-functions\az204-blob\bin\Debug\net7.0\az204-blob.exe
+C:\Users\pogutu\Desktop\az-functions\az204-blob\bin\Debug\net7.0\az204-blob.deps.json
+C:\Users\pogutu\Desktop\az-functions\az204-blob\bin\Debug\net7.0\az204-blob.runtimeconfig.json
+C:\Users\pogutu\Desktop\az-functions\az204-blob\bin\Debug\net7.0\az204-blob.dll
+C:\Users\pogutu\Desktop\az-functions\az204-blob\bin\Debug\net7.0\az204-blob.pdb
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\az204-blob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\az204-blob.AssemblyInfoInputs.cache
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\az204-blob.AssemblyInfo.cs
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\az204-blob.csproj.CoreCompileInputs.cache
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\az204-blob.dll
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\refint\az204-blob.dll
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\az204-blob.pdb
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\az204-blob.genruntimeconfig.cache
+C:\Users\pogutu\Desktop\az-functions\az204-blob\obj\Debug\net7.0\ref\az204-blob.dll
