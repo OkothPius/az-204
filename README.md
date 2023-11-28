@@ -15,4 +15,4 @@ dotnet run
 To clean the Resources execute:
 `az group delete --name az204-blob-rg --no-wait`
 
-Happy Coding :nerd_face:
+Happy Coding :shipit:
